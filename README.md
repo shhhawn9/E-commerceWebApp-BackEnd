@@ -15,4 +15,4 @@ Built with Spring Boot
 
 ## Run Application
 
-Simply run the backend with any compiler. The CRUD API can be accessed through `http://localhost:8443/api/...` through Postman or whatever API testing application you are using. Be aware, POST, PUT, and DELETE for items are forbidden.
+Simply run the backend with any compiler. The CRUD API can be accessed through `http://localhost:8443/api/...` through Postman or whatever API testing application you are using. Be aware, POST, PUT, and DELETE for items are forbidden. GET any order history that doesn't belong to your account is also forbidden.
